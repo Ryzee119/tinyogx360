@@ -2,6 +2,8 @@
 
 The tinyogx360 is a variation of my [ogx360](https://github.com/Ryzee119/ogx360) project, just a much smaller single player version. It is a circuit board which allows you to use a range of modern USB controllers on the Original Xbox Console. **Note the warnings below prior to building.**
 
+See the main [ogx360 repo](https://github.com/Ryzee119/ogx360) for device firmware. This repo just constains the hardware design files.
+
 This was created using [Autodesk Eagle.](https://www.autodesk.com/products/eagle/overview)
 
 <img src="./images/tinyogx.jpg" alt="tinyogx" width="100%"/>  
